@@ -4,7 +4,6 @@ class Player {
     this.index = null;
     this.positionX = 0;
     this.positionY = 0;
-    this.rank = 0;
 
     this.score = 0;
 
