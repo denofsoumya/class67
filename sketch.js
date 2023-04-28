@@ -1,4 +1,4 @@
-var canvas;
+sddsdsvar canvas;
 var backgroundImage, bgImg, car1_img, car2_img, track;
 var database, gameState;
 var form, player, playerCount;
